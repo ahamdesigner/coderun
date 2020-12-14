@@ -2,4 +2,4 @@
 run the code
 import mantra
 # ഓം
-start the code
+बहिर्लोक स्थिरीकृत
