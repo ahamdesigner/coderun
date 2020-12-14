@@ -1,5 +1,5 @@
 # coderun
 run the code
-import mantra
+import mantra environment
 # ഓം
 बहिर्लोक स्थिरीकृत
